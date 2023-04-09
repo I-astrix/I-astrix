@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Tarun!
 
-* * *
-
 🌟 About Me
 
 I'm a full stack (MERN) web developer
